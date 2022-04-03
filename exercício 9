@@ -1,0 +1,9 @@
+echo"<br><br>exercício 9";
+
+$salmin = 1100;
+$reajuste = 10;
+$salatual;
+
+$salatual = (($reajuste + 100) / 100) * $salmin;
+
+echo"<br>O salário atual de um trabalhador é de $salmin, com o reajuste de 10% foi para $salatual";
