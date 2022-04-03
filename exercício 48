@@ -1,0 +1,9 @@
+echo"<br><br>exercício 48";
+
+$n1 = 7;
+$n2 = 8;
+
+$media = $n1 + $n2 / 2;
+
+echo"<br>A média desse aluno é de $media";
+echo"<br>Aprovado!";
