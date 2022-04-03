@@ -1,0 +1,7 @@
+echo"<br><br>exercício 14";
+
+$numMaior = 11;
+$numMenor = 5;
+
+echo"<br>$numMaior é maior que 10";
+echo"<br>$numMenor é menor que 10";
