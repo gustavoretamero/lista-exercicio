@@ -1,0 +1,7 @@
+echo"<br><br>exercício 15";
+
+$numpos = 10;
+$numneg = -5;
+
+echo"<br>O número $numpos é positivo";
+echo"<br>O número $numneg é negativo";
