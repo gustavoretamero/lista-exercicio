@@ -1,0 +1,11 @@
+echo"<br><br>exercício 16";
+
+$macaA = 1.30;
+$macaB = 1.00;
+
+$menosduzia = $macaA * 6;
+$duzia = $macaB * 12;
+
+$total = $menosduzia + $duzia;
+
+echo"<br>O total da compra foi de $$total";
