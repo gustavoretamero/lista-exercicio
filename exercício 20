@@ -1,0 +1,6 @@
+echo"<br><br>exercício 20";
+
+$num = 6;
+$numcresc = $num + 1;
+
+echo"<br>$num, $numcresc";
