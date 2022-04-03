@@ -1,0 +1,8 @@
+echo"<br><br>exercício 44";
+
+$n1 = 10;
+$n2 = 0;
+
+while ($n2 == 0){
+$n2 = 2;
+echo"<br>$n1, $n2";
