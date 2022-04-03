@@ -1,0 +1,14 @@
+echo "exercício 5";
+
+$num = 5;
+$numAntecessor = $num - 1;
+
+echo "<br>O antecessor de $num é $numAntecessor";
+
+echo"<br><br>exercício 14";
+
+$numMaior = 11;
+$numMenor = 5;
+
+echo"<br>$numMaior é maior que 10";
+echo"<br>$numMenor é menor que 10";
